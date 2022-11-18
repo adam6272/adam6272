@@ -17,6 +17,7 @@ highlights:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=adam6272&count_private=true&show_icons=true&include_all_commits=true)
 ## Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/adam-lederer-124177145/)
