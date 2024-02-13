@@ -1,5 +1,5 @@
 # Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Adam, I'm a 19 year old software developer. I love working on projects that help people.
+My name is Adam, I'm a 20 year old software developer. I love working on projects that help people.
 highlights:
 - I love JS and TypeScript.
 - I use a lot of **web scraping**, **REST api's**, **electron**, and **docker**
